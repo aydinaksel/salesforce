@@ -1,0 +1,13 @@
+- [Understand the Salesforce Architecture](https://developer.salesforce.com/trailhead/force_com_dev_beginner/starting_force_com/starting_understanding_arch)  
+- [Visual Development - When to Click Instead of Write Code](https://developer.salesforce.com/blogs/engineering/2014/12/forcedotcom-declarative-development.html)  
+- [Introducing Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm) in the Apex Code Developer’s Guide  
+- [An Introduction to View State](https://developer.salesforce.com/page/An_Introduction_to_Visualforce_View_State)  
+- [Apex Design Patterns](https://developer.salesforce.com/page/Apex_Design_Patterns)  
+- [Integration Patterns and Practices](https://developer.salesforce.com/docs/atlas.en-us.integration_patterns_and_practices.meta/integration_patterns_and_practices/integ_pat_intro_overview.htm)
+---
+- [Invoking Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_invoking.htm) in the Apex Code Developer’s Guide  
+- [Getting Started with Apex Triggers](https://developer.salesforce.com/trailhead/apex_triggers/apex_triggers_intro) in the Developer Beginner trail  
+- [Executing Governors and Limits](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)  
+- [Testing Triggers](https://developer.salesforce.com/trailhead/apex_testing/apex_testing_triggers) in the Developer Beginner Trail
+---
+- [Data Loader](https://developer.salesforce.com/docs/atlas.en-us.250.0.dataLoader.meta/dataLoader/data_loader_intro.htm)
